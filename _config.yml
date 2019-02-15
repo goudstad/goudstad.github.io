@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: This is my first Jekyll site
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a digital humanity project created during Winter 2019 DH201.
