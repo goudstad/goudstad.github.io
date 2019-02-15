@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<<<<<<< HEAD:index.md
   [about] (https://goudstad.github.io/about.html)
   <h1> Raymond Huang </h1>
   <b>To Do List</b>
