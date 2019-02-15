@@ -2,12 +2,6 @@
 layout: default
 ---
   [about] (https://goudstad.github.io/about.html)
-  <h1> Raymond Huang </h1>
-  <b>To Do List</b>
-      1. Use Jekyll and GitHub to streamline web publishing (currently troubleshooting)</li>
-      2. Create narratives</li>
-      3. Embed visualizations and analysis</li>
-
   <h1>Raymond Huang</h1>
   <p> This page was designed for Digital Huamnities 201.</p>
   <b>To Do List</b>
