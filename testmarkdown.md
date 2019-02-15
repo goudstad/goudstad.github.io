@@ -13,4 +13,4 @@ In fact this guide uses the same configuration and can be read both in Github an
 
 * [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
 * [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [about] (about.md)
+* [about] (about.html)
