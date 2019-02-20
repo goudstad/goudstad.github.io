@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@include grid(12,10)
 
 ul.nav {
   list-style-type: none;
