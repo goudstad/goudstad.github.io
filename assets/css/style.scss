@@ -2,7 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-@include grid(12,10)
+
+/* decrease default page margin */
+
+.inner {
+  max-width: 75%;
+}
+
+/* navigation */
 
 ul.nav {
   list-style-type: none;
