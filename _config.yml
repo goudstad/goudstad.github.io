@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: This is my first Jekyll site
+title: Raymond Huang
 description: This is a digital humanity project created during Winter 2019 DH201.
 plugins:
   - jekyll-relative-links
